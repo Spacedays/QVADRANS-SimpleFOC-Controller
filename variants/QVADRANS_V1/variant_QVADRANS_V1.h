@@ -191,10 +191,10 @@
 // Default pin used for 'Serial' instance (ex: ST-Link)
 // Mandatory for Firmata
 #ifndef PIN_SERIAL_RX
-  #define PIN_SERIAL_RX         PB11
+  #define PIN_SERIAL_RX         PB4
 #endif
 #ifndef PIN_SERIAL_TX
-  #define PIN_SERIAL_TX         PB10
+  #define PIN_SERIAL_TX         PB3
 #endif
 
 /* HAL configuration */
